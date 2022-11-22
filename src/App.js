@@ -1,9 +1,11 @@
-import StopWatch from "./components/StopWatch";
+import CountdownTimer from "./components/Countdown/CountdownTimer";
+// import StopWatch from "./components/StopWatch/StopWatch";
 
 const App = () => {
   return (
     <div>
-      <StopWatch />
+      {/*   <StopWatch /> */}
+      <CountdownTimer />
     </div>
   );
 };

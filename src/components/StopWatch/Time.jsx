@@ -1,5 +1,4 @@
-import React from "react";
-import useStopWatch from "../hooks/useStopWatch";
+import useStopWatch from "../../hooks/useStopWatch";
 
 const Time = () => {
   const { timer } = useStopWatch();

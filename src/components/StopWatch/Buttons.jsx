@@ -1,4 +1,4 @@
-import useStopWatch from "../hooks/useStopWatch";
+import useStopWatch from "../../hooks/useStopWatch";
 
 const Buttons = () => {
   const {
