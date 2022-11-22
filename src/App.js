@@ -1,5 +1,11 @@
+import StopWatch from "./components/StopWatch";
+
 const App = () => {
-  return <div>App</div>;
+  return (
+    <div>
+      <StopWatch />
+    </div>
+  );
 };
 
 export default App;
